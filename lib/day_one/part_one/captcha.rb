@@ -7,8 +7,3 @@ def captcha(input)
     sum
   end
 end
-
-p captcha(1122)
-p captcha(1111)
-p captcha(1234)
-p captcha(91212129)
